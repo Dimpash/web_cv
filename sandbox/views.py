@@ -11,3 +11,7 @@ def fb_terms(request):
 
 def fb_data_deletion(request): 
     return render(request, "sandbox/fb_data-deletion.html")
+
+
+def medical_bayes_privacy_policy(request): 
+    return render(request, "sandbox/medical-bayes-privacy-policy.html")

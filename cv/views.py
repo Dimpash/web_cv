@@ -66,8 +66,8 @@ def cv_start(request, lang='en'):
         'portfolio_items': portfolio_items,
         'filters': filters
         }
-    from pprint import pprint
-    pprint(context)
+    # from pprint import pprint
+    # pprint(context)
     return render(request, f'cv/{lang}/index.html', context=context)
 
 
