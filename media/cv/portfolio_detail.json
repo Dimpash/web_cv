@@ -130,5 +130,27 @@
             "en": "A system for managing remote readings of utility metering devices.\n Developed by order of the Kron Group of Companies, Penza.\n Development environment: Python, Django, Vue.js, MariaDB.",
             "ru": "Система управления дистанционным съемом проказаний приборов учета коммунальных ресурсов.\n Разработано по заказу ГК \"Крон\" г. Пенза.\n Среда разработки: Python, Django, Vue.js, MariaDB."
         }
+    },
+    "fitness_marathon": {
+        "Name": {
+            "en": "Fitness marathon",
+            "ru": "Фитнес-марафон"
+        },
+        "Category": "Web app, Databases",
+        "Client": {
+            "en": "Freelance",
+            "ru": "Freelance"
+        },
+        "Period": "2025",
+        "URL": "https://script.google.com/macros/s/AKfycbwgpeZLlJGq6Oem2qD-Gr5GrMNH7zdkpXkgiZf20iOQ5_guiPFXiKWvM_y_3a1U9AMw/exec/1232xf121123f",
+        "Filter": "WEB",
+        "Note": {
+            "en": "Web application for running fitness marathons.",
+            "ru": "Веб-приложение для проведения фитнес-марафонов."
+        },
+        "Description": {
+            "en": "A small web service for conducting fitness marathons. It provides user authorization, a progress journal, tracking of body measurements, and final result summaries. Built entirely on Google Sheets + Google Apps Script.",
+            "ru": "Небольшой веб-сервис для проведения фитнес-марафонов. Обеспечивает авторизацию, дневник наблюдений, учёт контрольных замеров, подведение итогов. Полностью реализован на связке Google Sheets + Google Apps Script."
+        }
     }
 }
